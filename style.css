@@ -12,3 +12,11 @@ img {
     height: 100px;
     border-radius: 100px;
 }
+
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+    
+}
